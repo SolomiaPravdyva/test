@@ -1,4 +1,3 @@
-Added utils.py
 def factorial(n):
     if n < 0:
         raise ValueError("Факторіал визначений лише для невід'ємних чисел")
